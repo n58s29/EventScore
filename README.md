@@ -1,6 +1,6 @@
-# PilotEco 🎯
+# EventScore 🎯
 
-Outil de pilotage du ROI des écosystèmes numériques territoriaux — 574 Centre-Ouest, SNCF.
+Outil de pilotage du ROI des écosystèmes numériques territoriaux — SNCF.
 
 ## Fonctionnalités
 
