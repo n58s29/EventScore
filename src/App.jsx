@@ -19,8 +19,8 @@ const SAMPLE_EVENTS = [
     done: true
   },
   {
-    id: 3, nom: "Tech & Fest", territoire: "Rennes", type: "événement",
-    organisateur: "Digital 35", date: "2025-06-05", budget: 8000,
+    id: 3, nom: "Tech & Fest", territoire: "Grenoble", type: "événement",
+    organisateur: "ebra", date: "2025-06-05", budget: 8000,
     scoring: { innovation: 70, recrutement: 80, influence: 60, business: 55, cout: 80 },
     resultats: { contacts: 60, contactsQualifies: 22, startupsRencontrees: 10, startupsPertinentes: 4, pocLances: 1, projetsDeployes: 0, candidatsRencontres: 25, recrutements: 1, rdvMetiers: 5, projetsInities: 1 },
     done: true
@@ -770,7 +770,7 @@ export default function App() {
             <Target size={20} color="#fff" />
           </div>
           <div>
-            <div style={{ color: "#fff", fontSize: 16, fontWeight: 800, letterSpacing: -0.3 }}>PilotEco</div>
+            <div style={{ color: "#fff", fontSize: 16, fontWeight: 800, letterSpacing: -0.3 }}>EventScore</div>
             <div style={{ color: "rgba(255,255,255,0.5)", fontSize: 11, fontWeight: 500 }}>Pilotage des écosystèmes numériques · 574 Centre-Ouest</div>
           </div>
         </div>
